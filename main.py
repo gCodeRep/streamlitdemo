@@ -5,6 +5,7 @@ import gemini20functiongeneral
 import helpercode
 import logging
 #Hitesh Comments Added
+#Hitesh Comments Added in GitHub
 
 PROJECT_ID = helpercode.get_project_id()
 LOCATION = "us-central1"
