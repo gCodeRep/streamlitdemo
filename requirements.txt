@@ -1,0 +1,10 @@
+streamlit
+google-api-core
+google-cloud
+protobuf
+google-cloud-aiplatform
+google-auth
+google-api-python-client
+google-auth-oauthlib
+google-cloud-secret-manager
+google-genai
