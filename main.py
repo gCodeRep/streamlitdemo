@@ -4,6 +4,7 @@ from google.genai import types
 import gemini20functiongeneral
 import helpercode
 import logging
+#Hitesh Comments Added
 
 PROJECT_ID = helpercode.get_project_id()
 LOCATION = "us-central1"
